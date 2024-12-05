@@ -12,8 +12,9 @@
 
 ## Dataset Description
 > The dataset contains information about 1,338 customers, including their age, sex, BMI, number of children, smoking habits, region of residence, and annual medical charges. For this project, we focus on non-smokers and use their age and BMI to predict their medical charges.
-<img src="https://i.imgur.com/87Uw0aG.png" wi![newplot(2)](https://github.com/user-attachments/assets/e967b4e7-4e59-4157-b1d6-49ed2712b82d)
-dth="480">
+![newplot(2)](https://github.com/user-attachments/assets/e967b4e7-4e59-4157-b1d6-49ed2712b82d)
+
+
 ## Data analysis
 ![image](https://github.com/user-attachments/assets/d382a289-ccae-4353-b5c5-42085f8f02d7)
 
