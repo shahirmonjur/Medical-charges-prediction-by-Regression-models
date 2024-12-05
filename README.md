@@ -25,7 +25,8 @@ dth="480">
 > SGD Regressor: An iterative method for optimizing the linear regression model, which can handle large datasets efficiently.
 >
 ## Conclusion
->Both models were trained and evaluated on the dataset. The Linear Regression model had an RMSE of approximately 4662.31, while the SGD Regressor had an RMSE of approximately 4700.45. Although both models performed similarly, the Linear Regression model had a slightly lower RMSE, indicating it provided more accurate predictions for this dataset.
+>Both models Linear regression and SGD Regressor were trained and evaluated on the dataset. The Linear Regression model had an RMSE of approximately 4608.57, while the SGD Regressor had an RMSE of approximately 4608.61. Both models performed similarly, probably because we worked with few features.
+
 ![image](https://github.com/user-attachments/assets/a2c7aaa6-516d-4e52-9985-e2dfbba1b30b)
 
 >This project demonstrates the process of building and evaluating regression models to predict medical charges, providing valuable insights for determining insurance premiums. 
